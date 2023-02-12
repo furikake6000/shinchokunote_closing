@@ -1,0 +1,15 @@
+body {
+  background-color: #fff6f3;
+  font-family: -apple-system, blinkMacSystemFont, 'Helvetica Neue', 'Segoe UI', 'Yu Gothic', YuGothic, Meiryo, sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  color: #F75C2F;
+  border-bottom: medium dotted #F75C2F;
+  padding-bottom: 0.5rem
+}
+
+.rounded-lg {
+  border-radius: 20px;
+}
